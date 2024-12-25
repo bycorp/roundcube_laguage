@@ -1,20 +1,5 @@
 ﻿<?php
 
-/*
- +-----------------------------------------------------------------------+
- | localization/tj/csv2vcard.inc                                      |
- |                                                                       |
- | Language file of the Roundcube Webmail client                         |
- | Copyright (C) 2005-2014, The Roundcube Dev Team                       |
- |                                                                       |
- | Licensed under the GNU General Public License version 3 or            |
- | any later version with exceptions for skins & plugins.                |
- | See the README file for a full license statement.                     |
- |                                                                       |
- +-----------------------------------------------------------------------+
- | Author: Aleksander Machniak <alec@alec.pl>                            |
- +-----------------------------------------------------------------------+
-*/
 $map['birth_day'] = "Рӯзи таваллуд";
 $map['birth_month'] = "Моҳи таваллуд";
 $map['birth_year'] = "Соли таваллуд";
